@@ -9,3 +9,4 @@ extension SwiftGate: SceneConnector {
 		return SomeScene(withSize: withSize)
 	}
 }
+
